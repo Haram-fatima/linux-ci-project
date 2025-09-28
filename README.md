@@ -11,7 +11,6 @@ The project demonstrates how to:
 
 ## 🌐 Live Demo
 🔗 [Click here to view the site](https://haram-fatima.github.io/linux-ci-project/)
-<img width="1493" height="825" alt="image" src="https://github.com/user-attachments/assets/a579899f-a5e6-46dd-b6e3-453e4dad4798" 
 
 
 ---
